@@ -1,0 +1,4 @@
+,Accuracy,Precision,Recall,F1 Score
+Random Forest,0.56,0.57,0.56,0.56
+LightGBM,0.62,0.58,0.62,0.59
+Decision Tree,0.48,0.55,0.48,0.51
