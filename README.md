@@ -56,7 +56,6 @@ The project includes:
 
 - Integrate BERT embeddings for unstructured data.
 - Combine both structured + NLP features for hybrid modeling.
-- Add SHAP or LIME for model explainability.
 
 ## Insights
 
