@@ -35,7 +35,7 @@ The project includes:
 
 ## Models Compared
 
-| Model         | Accuracy (Structured) | Accuracy (Text) |
+| Model         | Accuracy (Data2 - Structured) | Accuracy (Data1 - Text) |
 |---------------|------------------------|------------------|
 | LightGBM      | 62.16% ✅               | 20.25%           |
 | Random Forest | 55.62%                 | 21.13%           |
