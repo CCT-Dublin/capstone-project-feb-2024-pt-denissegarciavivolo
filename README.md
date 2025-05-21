@@ -4,6 +4,8 @@
 **Author:** Denisse Garcia  
 **Program:** Higher Diploma in Science in Artificial Intelligence – CCT College Dublin
 
+**Video Presentation**: https://drive.google.com/drive/folders/1dJnwBUo-05LOM3HRNNOMYp5XqiO_uqKQ?usp=drive_link
+
 # Capstone Project: Customer Satisfaction Prediction Using Machine Learning
 
 This project aims to predict Customer Satisfaction (CSAT) scores using machine learning techniques applied to two distinct datasets: a structured dataset and a text-based support dataset. The goal is to explore how different types of data influence the predictive performance and to identify the most viable model for real-world deployment.
